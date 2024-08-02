@@ -21,4 +21,6 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CvQF5Qj_YmBs4m75CdwrhetcTWw
 https://live-c.cf.dmcdn.net/sec2(atY7fbRQYR8bkVXudHXJmM1nPlmdTUksVrJrea5Jn-2UeWJ4PS1TlOpt1OeoxgBdeEice5bI4IGKG9jqcczkQbg_dGbiKPxcHfW4vj80Th0)/dm/3/x7x4dgx/s/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Internacional | RT TV" tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg" group-title="RT TV HD", RT TV
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Ovacion TV" tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg" group-title="OVACION TV HD", Ovacion TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w35115645.m3u8
 
