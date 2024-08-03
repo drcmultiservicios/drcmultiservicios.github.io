@@ -13,9 +13,9 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | LA KARIBENA TV" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.svg" group-title="LA KARIBENA TV HD", La Karibena Tv
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru | LA KARIBENA TV" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.svg" group-title="LA KARIBENA TV HD", La Karibena Tv
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LA KARIBENA TV" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.svg" group-title="LA KARIBENA TV HD", La Karibena Radio
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru | LA KARIBENA TV" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.svg" group-title="LA KARIBENA TV HD", La Karibena Tv
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LA KARIBENA TV" tvg-logo="https://statics.lakaribena.com.pe/rk/img/global/logo.karibena.svg" group-title="LA KARIBENA TV HD", La Karibena Tv Audio
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | VISION SUR TV" tvg-logo="https://visionsurtv.pe/wp-content/uploads/2024/06/logo_visionsurtv.png" group-title="VISION SUR TV HD", Vision Sur Tv
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
