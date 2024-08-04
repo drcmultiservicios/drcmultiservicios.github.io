@@ -31,4 +31,6 @@ https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a630152602
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="NATIVA TV HD", Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | GOLPERU TV" tvg-logo="https://golperu.pe/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="GOLPERU TV HD", Gol Perú TV
+https://c3bvcnrz.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=179.43.98.191&token=355a291749b6de2975cf092b28db6a935dd8ecbc-c10c3f10df6f4814912bd06898ab7958-1722823854-1722787854
 
