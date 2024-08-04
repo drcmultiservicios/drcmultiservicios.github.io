@@ -37,4 +37,6 @@ https://mi.godo.net.pe/Best-cable-sports/tracks-v1a1/index.m3u8
 https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Best Hatun TV" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BEST_TV/PROGRAMAS/BEST_CABLE_NOTICIAS.webp" group-title="Best Hatun TV HD", Best Hatun TV
 https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="NATIVA TV HD", Nativa TV
+https://www.ntv.pe/salida/nativa.m3u8
 
