@@ -31,4 +31,10 @@ https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a630152602
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Best TV" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BEST_TV/PROGRAMAS/BEST_CABLE_NOTICIAS.webp" group-title="Best TV HD", Best TV
 https://mi.godo.net.pe/BesTv-001120zx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Best TV Sport" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BEST_TV/PROGRAMAS/BEST_CABLE_NOTICIAS.webp" group-title="Best TV Sport HD", Best TV Sport
+https://mi.godo.net.pe/Best-cable-sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Best +Cumbia TV" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BEST_TV/PROGRAMAS/BEST_CABLE_NOTICIAS.webp" group-title="Best +Cumbia TV HD", Best + Cumbia TV
+https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Best Hatun TV" tvg-logo="https://bestcableperu.com.pe/assets/images/1.LIMA/6.ENVIVO/BEST_TV/PROGRAMAS/BEST_CABLE_NOTICIAS.webp" group-title="Best Hatun TV HD", Best Hatun TV
+https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
