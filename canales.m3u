@@ -33,4 +33,6 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://www.ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | GOLPERU TV" tvg-logo="https://golperu.pe/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="GOLPERU TV HD", Gol Perú TV
 https://c3bvcnrz.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=179.43.98.191&token=355a291749b6de2975cf092b28db6a935dd8ecbc-c10c3f10df6f4814912bd06898ab7958-1722823854-1722787854
+#EXTINF:-1 tvg-id="" tvg-name="Peru | PANAMERICANA TV" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20240804" group-title="PANAMERICANA TV HD", Panamericana TV
+https://cdn0.360playvid.com/lycraiu1ryu6dgh53p8/hls/index.m3u8
 
