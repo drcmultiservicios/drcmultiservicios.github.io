@@ -32,9 +32,11 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="NATIVA TV HD", Nativa TV
 https://www.ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | GOLPERU TV" tvg-logo="https://golperu.pe/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="GOLPERU TV HD", Gol Perú TV
-https://c3bvcnrz.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=179.43.98.191&token=355a291749b6de2975cf092b28db6a935dd8ecbc-c10c3f10df6f4814912bd06898ab7958-1722823854-1722787854
+https://z29vzc.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=179.6.149.131&token=54e1c48b4bb711c856ae78cf610284965259fd94-fe0e2d4ee437a658133090cc04e738d7-1723097594-1723061594
 #EXTINF:-1 tvg-id="" tvg-name="Peru | PANAMERICANA TV" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20240804" group-title="PANAMERICANA TV HD", Panamericana TV
 https://live-c.cf.dmcdn.net/sec2(cVudltxR7U0dSdAuRQft32E-gCIz6lrV6YshhD5Q1pwZeBuzVec2520r-yMlEfVViYpnsz3mAS-CZP1LOBdk11ZOVfq8dS6yI3OYzyT2c1k)/dm/3/x774s7s/s/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peru | PANAMERICANA TV HD" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20240804" group-title="PANAMERICANA TV HD", Panamericana TV
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | GOLPERU TV" tvg-logo="https://golperu.pe/wp-content/uploads/2023/04/png_golperu_logo.png" group-title="GOLPERU TV HD", Gol Perú TV
+https://gb9ku8ed6n2q3hft5jz47y.cdnorange.net:8443/hls/0qfk0.m3u8?s=WCflJYhSLUOeTtTKpA-H2w&e=1723083771
 
