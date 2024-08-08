@@ -41,4 +41,6 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://live-evg24.tv360.bitel.com.pe/conecta2/tracks-v1a1/mono.m3u8?uid=2779768
 #EXTINF:-1 tvg-id="" tvg-name="Peru | RCR TV HD" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="RCR TV HD", Red de comunicación regional TV
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w711696859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://fzsports-landings-assets.s3.amazonaws.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp" group-title="LIGA 1 MAX HD", Liga 1 Max TV
+https://betzta.com/canales.php?stream=l1max.m3u8
 
